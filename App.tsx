@@ -29,7 +29,7 @@ import { StyleSheet, Text, View, TextInput } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text allowFontScaling={true} maxFontSizeMultiplier={1.2}>
+      <Text allowFontScaling={true} maxFontSizeMultiplier={1.5}>
         Open up App.tsx to start working on your app!
       </Text>
       <StatusBar style="auto" />
